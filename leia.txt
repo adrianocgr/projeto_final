@@ -1,2 +1,3 @@
 Teste commit
+MERGE MERGE
 MERGE
