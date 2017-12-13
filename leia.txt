@@ -1,5 +1,5 @@
 Teste commit
 MERGE MERGE
 MERGE
-MERGE MERGE
 alteração git diferente
+ALTEREI
