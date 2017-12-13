@@ -3,3 +3,4 @@ MERGE MERGE
 MERGE
 alteração git diferente
 ALTEREI
+feita correção de um bug
